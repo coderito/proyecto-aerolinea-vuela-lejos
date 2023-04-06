@@ -121,3 +121,8 @@ i {
 .img-area{
   width: 100%;
 }
+
+footer{
+  height: 3rem;
+  font-weight: bold;
+}
